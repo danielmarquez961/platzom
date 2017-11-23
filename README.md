@@ -28,7 +28,7 @@ platzom("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
-- [Sacha Lifszyc](https://twitter.com/@slifszyc)
+- [danielmarquez](https://twitter.com/DanielMarquez7?lang=es)
 
 ## Licencia
 
