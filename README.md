@@ -28,7 +28,7 @@ platzom("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
-- [danielmarquez](https://twitter.com/DanielMarquez7?lang=es)
+- [Daniel Marquez](https://twitter.com/DanielMarquez7?lang=es)
 
 ## Licencia
 
